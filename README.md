@@ -147,5 +147,5 @@ Watch，Inject等高级用法：https://github.com/kaorun343/vue-property-decora
 
 ## 交流
 
-有问题或建议欢迎大象我 zhangren
+
 
