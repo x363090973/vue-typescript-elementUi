@@ -5,10 +5,11 @@ import App from './App.vue'
 import router from './router'
 
 //引入element
-import { Button, Select } from 'element-ui';
+
+import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
-Vue.component(Button.name, Button);
-Vue.component(Select.name, Select);
+Vue.use(ElementUI);
+
 
 Vue.config.productionTip = false
 
